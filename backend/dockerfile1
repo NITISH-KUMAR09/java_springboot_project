@@ -26,4 +26,4 @@ ENV SERVER_PORT=8084
 EXPOSE 8084
 
 # Run the application
-CMD ["java", "-jar", "app.jar"]
+CMD ["java", "-jar", "app.jar"]s
